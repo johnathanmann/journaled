@@ -6,3 +6,12 @@
     margin-left: 60px;
     line-height: 45px;
 }
+
+.college-ruled{
+    background-image: url(./imgs/college-ruled.png);
+}
+
+.college-ruled-text{
+    margin-left: 60px;
+    line-height: 35px;
+}
