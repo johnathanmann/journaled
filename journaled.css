@@ -1,0 +1,8 @@
+.wide-ruled{
+    background-image: url(./imgs/wide-ruled.png);
+}
+
+.wide-ruled-text{
+    margin-left: 60px;
+    line-height: 45px;
+}
